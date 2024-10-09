@@ -1,4 +1,4 @@
-# artistas
+# Artistas
 ## Cantantes
 
 CTangana
